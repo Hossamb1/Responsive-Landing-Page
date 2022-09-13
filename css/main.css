@@ -60,7 +60,7 @@ header {
 }
 .navbar_list button:hover,
 .running {
-  color: #afafaf !important;
+  color: #2aa3ff !important;
   background-color: #434343;
   border-color: white;
 }
